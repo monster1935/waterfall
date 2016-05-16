@@ -8,4 +8,4 @@ a demo of waterfall
 
 3.使用css3的column实现
 
-Demo演示：[瀑布流布局的实现](monster1935.github.io/waterfall)
+Demo演示：[瀑布流布局的实现](monster1935.github.io/waterfall){:target="_blank"}
